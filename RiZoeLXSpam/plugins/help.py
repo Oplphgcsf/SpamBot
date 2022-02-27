@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from RiZoeLXSpam import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/9acc785291052c8f8998d.jpg"
+HELP_PIC = "https://telegra.ph/file/3fa9f0ec4d123bdc17742.jpg"
 
 Riz_Help = "__Click On Below Buttons for help__"
 
@@ -64,7 +64,7 @@ ii) {hl}leave : Type in the Group bot will auto leave that group
 **Packspam**: Sticker Pack Spam
 i) {hl}packspam (replying to any sticker)
 
-**© @RiZoeLX**
+**© @P_4_PEEYUSH**
 """
 
                  
@@ -93,7 +93,7 @@ i) {hl}dreplyraid <replying to user>
 ii) {hl}dreplyraid <username>
 
 
-**© @RiZoeLX**
+**© @P_4_PEEYUSH**
 """
 
 spam_msg = f"""
