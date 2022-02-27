@@ -19,7 +19,7 @@ rizoel = "✯ 𓆩𝙏𝙍𝙊𝙉𝙄𝙓 ✗ 𝙎𝙋𝘼𝙈𓆪 𝙃𝙀𝙍
 rizoel += f"═══════════════════\n"
 rizoel += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 rizoel += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
-rizoel += f"• **ʀɪᴢᴏᴇʟXsᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
+rizoel += f"• **Tronix ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
 rizoel += f"═══════════════════\n\n"   
 
                                   
