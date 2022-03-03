@@ -12,6 +12,7 @@ from RiZoeLXSpam import ALIVE_PIC
 from telethon import events, version, Button
 from telethon.tl.custom import button
 from time import time
+from resources.data import RiZoeLX
 
 
     
