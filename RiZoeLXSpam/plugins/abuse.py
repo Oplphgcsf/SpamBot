@@ -12,8 +12,8 @@ from RiZoeLXSpam import ALIVE_PIC
 from telethon import events, version, Button
 from telethon.tl.custom import button
 from time import time
-from datetime import datetime<
-  
+
+
     
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%sabuse(?: |$)(.*)" % hl))
 @Riz2.on(events.NewMessage(incoming=True, pattern=r"\%sabuse(?: |$)(.*)" % hl))
